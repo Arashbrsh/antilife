@@ -229,9 +229,9 @@ An advance Administration bot based on yagop/telegram-bot
 https://github.com/SEEDTEAM/TeleSeed
 
 Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@seyedan25 [Manager]
+@stop_a [Founder]
+@stop_a [Developer]
+@stop_a [Manager]
 
 Special thanks to
 awkward_potato
@@ -356,7 +356,7 @@ will return group ban list
 end
 
 function on_our_id (id)
-  our_id = id
+  our_id = stop_a
 end
 
 function on_user_update (user, what)
