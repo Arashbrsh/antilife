@@ -240,7 +240,7 @@ topkecleon
 Vamptacus
 
 Our channels
-@teleseedch [English]
+@botdragonch [English]
 ]],
     help_text = [[
 Commands list :
@@ -356,7 +356,7 @@ will return group ban list
 end
 
 function on_our_id (id)
-  our_id = stop_a
+  152485254 = id
 end
 
 function on_user_update (user, what)
